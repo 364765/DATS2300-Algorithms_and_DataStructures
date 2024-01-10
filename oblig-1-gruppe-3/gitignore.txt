@@ -1,0 +1,4 @@
+*
+
+!**/Oblig1.java
+!README.md
